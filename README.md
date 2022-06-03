@@ -2,7 +2,7 @@
 
 <hr width = "300vw">
 
-<img src = "dilzalogo.png" width = "50"> <h4>NOSOTROS SOMOS DILZA CORE</h4>
+<img width = "50"> <h4>WELCOM TO MY PROFILE</h4>
   
 <hr width = "300vw">
 
