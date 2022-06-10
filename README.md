@@ -15,7 +15,7 @@
 
 | Porjecto      | URL           | Descipcion |
 | ------------- |:-------------:|:--------------:|
-| O m a r |[Discord](https://discord.io/dilzalab)|Dilza Company discord community|
+| O m a r |[Discord](https://discord.io/dilzalab)|O m a r Company discord community|
 <hr width = "500vw">
 
   
@@ -23,7 +23,7 @@
 
 <hr width = "500vw">
 
-![Snowflake107](https://github-readme-stats.vercel.app/api?username=DilzaCompany&show_icons=true&theme=tokyonight&hide=["issues"])
+![Snowflake107]([https://github-readme-stats.vercel.app/api?username=DilzaCompany&show_icons=true&theme=tokyonight&hide](https://github-readme-stats.vercel.app/api?username=omar141&show_icons=true&theme=tokyonight&hide)=["issues"])
   
 <h3>🌍 Lenhuajes<h3>
 
